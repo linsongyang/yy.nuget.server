@@ -38,3 +38,4 @@ nuget Owin 1.0
 nuget Sammy.js 0.7.5 
 nuget System.Diagnostics.DiagnosticSource 4.4.1 
 nuget WebGrease 1.6.0 
+nuget Castle.Core 4.3.1
